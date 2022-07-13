@@ -2,7 +2,7 @@
 Hi 👋 My name is Sevda..
 ========================
 
-* 🧠  I'm learning Swift / IOS Development.
+* 🧠  I'm learning SwiftUI.
 * ✉️  You can contact me at [sevdagulbaran@gmail.com](mailto:sevdagulbaran@gmail.com)
 
 
