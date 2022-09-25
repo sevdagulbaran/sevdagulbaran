@@ -2,11 +2,9 @@
 Hi 👋 My name is Sevda..
 ========================
 
-* 🧠  I'm learning SwiftUI and iOS Development.
-* 💃🏻  I'm working at [Appcent](https://www.appcent.mobi/)
+* ✨ I'm Jr. iOS Developer.
+* 🧠 learning Swift and iOS Development.
 * ✉️  You can contact me at [sevdagulbaran@gmail.com](mailto:sevdagulbaran@gmail.com)
-
-
 
 ### Skills
 
@@ -29,10 +27,8 @@ Hi 👋 My name is Sevda..
 
 <b>Socials</b>
 
-<p align="left"> <a href="https://www.github.com/sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sevdagulbaran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
-<hr/>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sevdagulbaran"><img src="https://github-readme-stats.vercel.app/api?username=sevdagulbaran&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=64748b&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="sevdagulbaran's GitHub stats" /></a>
+
